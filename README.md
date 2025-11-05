@@ -58,7 +58,7 @@ The model effectively distinguishes between churned and retained customers.
 | **Language** | Python |
 | **Frameworks** | TensorFlow, Keras |
 | **Libraries** | NumPy, Pandas, Matplotlib, Scikit-learn |
-| **Deployment (optional)** | Streamlit / Flask |
+| **Deployment  | Streamlit  |
 | **Environment** | Jupyter Notebook, VS Code |
 
 ---
