@@ -63,8 +63,3 @@ The model effectively distinguishes between churned and retained customers.
 
 ---
 
-## 🚀 How to Run the Project
-
-### 🧾 1. Clone this Repository
-```bash
-git clone https://github.com/Abhiee123/churn-prediction-using-ANN.git
